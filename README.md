@@ -18,4 +18,4 @@ Open code in a ide open terminal write start index.html and enter, it will open 
 3. Wait for the Pages URL to become available.
    
 ## Privacy
-I Avoid publishing school name, contact information, exact location, or schedule.
+I avoid publishing personal photos, school name, contact information, exact location, or schedule.
