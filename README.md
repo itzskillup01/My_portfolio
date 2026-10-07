@@ -1,9 +1,9 @@
 # Ragi's Little Corner ✿
 
-A handmade, scrapbook-inspired personal website for Ragi, a Class 10 student who loves drawing, sketching, painting, cricket, and chess.
+A handmade, scrapbook-inspired personal website, I aa Class 10 student who loves drawing, sketching, painting, cricket, and chess.
 
 ## What's inside
-- About Ragi and her hobbies
+- About me and my hobbies
 - Achievements: first prize in chess, third prize in cricket
 - An art gallery 
 - Responsive HTML/CSS/JavaScript, with no site builder or template
