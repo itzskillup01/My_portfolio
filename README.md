@@ -5,8 +5,7 @@ A handmade, scrapbook-inspired personal website for Ragi, a Class 10 student who
 ## What's inside
 - About Ragi and her hobbies
 - Achievements: first prize in chess, third prize in cricket
-- An art gallery with placeholders ready for real artwork
-- A /now-inspired section and a hidden star Easter egg
+- An art gallery 
 - Responsive HTML/CSS/JavaScript, with no site builder or template
 
 ## Run locally
